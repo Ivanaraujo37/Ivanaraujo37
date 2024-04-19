@@ -30,6 +30,7 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 </div>
 
 
+
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivanaraujo37&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivanaraujo37&theme=radical&hide_border=false)
@@ -43,5 +44,3 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Gracias+por+visitar+mi+perfil!" />
 </h1>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# ¡Gracias por visitar mi perfil!
