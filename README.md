@@ -22,6 +22,8 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 
 ¡Gracias por visitar mi perfil!
