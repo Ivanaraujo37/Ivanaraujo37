@@ -6,7 +6,7 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 - 🌱 Me encanta aprender sobre nuevas tecnologías y herramientas.
 - 👯 Estoy buscando colaborar en proyectos interesantes y retadores.
 - 💬 Puedes preguntarme sobre desarrollo web, videojuegos , anime o cualquier cosa relacionada con la programación.
-- 📫 Puedes contactarme a través de mi correo electrónico [tu_email@example.com](mailto:ivanaraujochavez14@gmail.com).
+- 📫 Puedes contactarme a través de mi correo electrónico [ivanaraujochavez14@gmail.com](mailto:ivanaraujochavez14@gmail.com).
 - ⚡ Dato curioso: ¡Soy un ávido jugador de videojuegos!
 
 # 💻 Tech Stack
