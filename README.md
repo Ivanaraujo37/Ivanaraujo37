@@ -24,10 +24,11 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 
 <div align="center">
   <br>
-  ![Snake eating my contributions](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
+
 
 
 
