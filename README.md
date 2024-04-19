@@ -15,8 +15,8 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,docker,.NET,c##,java,nextjs,SQL Server,flask" /><br>
+    <<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,docker,dotnet,sqlserver,java,eclipse" /><br>
 </div>
 
 
