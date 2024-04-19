@@ -9,7 +9,6 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 - 🌱 Me encanta aprender sobre nuevas tecnologías y herramientas.
 - 👯 Estoy buscando colaborar en proyectos interesantes y retadores.
 - 💬 Puedes preguntarme sobre desarrollo web, videojuegos , anime o cualquier cosa relacionada con la programación.
-- 📫 Puedes contactarme a través de mi correo electrónico [ivanaraujochavez14@gmail.com](mailto:ivanaraujochavez14@gmail.com).
 - ⚡ Dato curioso: ¡Soy un ávido jugador de videojuegos!
 
 <h2 align="left">Contacta Conmigo</h2>
@@ -17,6 +16,8 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 <a href="https://twitter.com/ivanaraujo372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanaraujo372" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iván-araujo-chávez-7b4648211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iván-araujo-chávez-7b4648211" height="30" width="40" /></a>
 <a href="https://instagram.com/ivanaraujochavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanaraujochavez" height="30" width="40" /></a>
+<a href="mailto:ivanaraujochavez14@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" alt="Correo electrónico" height="30" width="40" /></a>
+
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
