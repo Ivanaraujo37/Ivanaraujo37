@@ -16,7 +16,7 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 <a href="https://twitter.com/ivanaraujo372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanaraujo372" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iván-araujo-chávez-7b4648211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iván-araujo-chávez-7b4648211" height="30" width="40" /></a>
 <a href="https://instagram.com/ivanaraujochavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanaraujochavez" height="30" width="40" /></a>
-<a href="mailto:ivanaraujochavez14@gmail.com" target="_blank"><img align="center" src="![image](https://github.com/Ivanaraujo37/Ivanaraujo37/assets/132236468/47c1113e-9a5a-4b54-8ec1-89ac1fbfb96f)" alt="Gmail" height="30" width="40" /></a>
+<a href="mailto:ivanaraujochavez14@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" height="30" width="40" /></a>
 
 
 </p>
