@@ -17,7 +17,7 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 <a href="https://twitter.com/ivanaraujo372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanaraujo372" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iván-araujo-chávez-7b4648211/?originalsubdomain=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iván-araujo-chávez-7b4648211/?originalsubdomain=es" height="30" width="40" /></a>
 <a href="https://instagram.com/ivanaraujochavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanaraujochavez" height="30" width="40" /></a>
-<a href="https://discord.gg/8404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8404" height="30" width="40" /></a>
+<a href="https://discord.gg/Ivanaraujo37#8404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8404" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
