@@ -19,5 +19,11 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,docker,dotnet,mysql,java,eclipse" /><br>
 </div>
 
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ¡Gracias por visitar mi perfil!
