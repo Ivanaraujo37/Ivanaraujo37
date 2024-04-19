@@ -10,10 +10,11 @@ Soy estudiante en INS LES SALINES, especializándome como Desarrollador de Aplic
 - ⚡ Dato curioso: ¡Soy un ávido jugador de videojuegos!
 
 ## Contacta Conmigo
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg =30x30)](https://twitter.com/ivanaraujo372)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg =30x30)](https://linkedin.com/in/iván-araujo-chávez-7b4648211)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg =30x30)](https://instagram.com/ivanaraujochavez)
-[![Gmail](https://www.svgrepo.com/show/303161/gmail-icon-logo.svg =30x30)](mailto:ivanaraujochavez14@gmail.com)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>](https://twitter.com/ivanaraujo372)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>](https://linkedin.com/in/iván-araujo-chávez-7b4648211)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>](https://instagram.com/ivanaraujochavez)
+[<img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail" height="30" width="40"/>](mailto:ivanaraujochavez14@gmail.com)
+
 
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
